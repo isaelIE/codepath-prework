@@ -1,42 +1,31 @@
-# codepath-prework
-codepath prework project
-# Pre-work - *Tip Calculator*
+# Project 7 - WordPress Pen Testing
 
-**Name of your app** is a tip calculator application for iOS.
+Time spent: **30** hours spent in total
 
-Submitted by: **Isael Estrada**
+> Objective: Find, analyze, recreate, and document **five vulnerabilities** affecting an old version of WordPress
 
-Time spent: **4** hours spent in total
+## Pen Testing Report
 
-## User Stories
+### 1. What I got working:
 
-The following **required** functionality is complete:
 
-* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+### 2. What I couldn't get working:
 
-The following **optional** features are implemented:
 
-* [ ] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+## Resources
 
-The following **additional** features are implemented:
+- [WordPress Source Browser](https://core.trac.wordpress.org/browser/)
+- [WordPress Developer Reference](https://developer.wordpress.org/reference/)
 
-- [ ] List anything else that you can get done to improve the app functionality!
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://g.recordit.co/9whEynv6iv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIFs created with  ...
+<!-- Recommended GIF Tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
-Some challenges were due to the views and certain code that was hard to find in order to correct mistakes.
+Describe any challenges encountered while doing the work
 
 ## License
 
